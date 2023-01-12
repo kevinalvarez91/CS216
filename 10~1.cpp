@@ -1,9 +1,11 @@
-//for daddy mahan
+
 #include <iostream>
 #include <unordered_map>
 
 using namespace std;
+
 /*function prototypes, must include in order for code to compile*/
+
 bool isAnagram(const string& s1, const string& s2);
 int main ();
 
